@@ -15454,9 +15454,9 @@ const App = {
             return [
                 h('h1', `Vue 3 Template Explorer`),
                 h('a', {
-                    href: `https://github.com/vuejs/vue-next/tree/${"c9cac74"}`,
+                    href: `https://github.com/vuejs/vue-next/tree/${"a1210af"}`,
                     target: `_blank`
-                }, `@${"c9cac74"}`),
+                }, `@${"a1210af"}`),
                 ' | ',
                 h('a', {
                     href: 'https://app.netlify.com/sites/vue-next-template-explorer/deploys',
